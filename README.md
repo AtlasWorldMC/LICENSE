@@ -1,4 +1,4 @@
-# LICENSE
+# License
 AtlasWorld's Proprietary License
 
 ```AtlasWorld's Proprietary License
